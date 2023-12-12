@@ -1,2 +1,4 @@
 # BMICalculator
-Console Calculator for BMI
+🔢 Console Calculator for BMI 🧮
+Made with Java
+
